@@ -15,3 +15,5 @@ I started off by fetching the form inputs by using the document.getElementbyId m
 \*Javascript for functionality.
 
 ## Loom Video Link
+
+https://www.loom.com/share/935a2dca402a405bbbc8a972222b2b22?sid=151186d9-0b25-4dfb-842a-46ff1283db6b
